@@ -19,7 +19,6 @@ function findDuplicates(nums) {
 
 }
 
-
-nums = [4,3,2,7,8,2,3,1]
+nums = [4,3,2,7,8,2,3,1,1,1,1,2,2,2,3,4,4,4]
 
 console.log(findDuplicates(nums));
