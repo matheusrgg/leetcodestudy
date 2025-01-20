@@ -46,3 +46,7 @@ indexOf:
 Checks for the position (index) of a specified substring within a string (or element in an array).
 Returns the index of the first occurrence (0 or greater) if found, or -1 if not found.
 Example: string.indexOf(substring) or array.indexOf(element).
+
+### outro ponto forte
+
+Using indexOf is preferred here for simplicity and performance. It's also a widely recognized pattern for removing duplicates.
