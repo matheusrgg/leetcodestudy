@@ -1,5 +1,7 @@
 
 
+Link do Github: https://github.com/egonSchiele/grokking_algorithms
+
 ## Chapter 1 - Entendendo algoritmos
 
 Pesquisa Binária que ao invés de começar
